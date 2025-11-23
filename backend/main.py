@@ -48,4 +48,6 @@ def delete(task_id: str):
     data = read_db()
     data = [t for t in data if t["id"] != task_id]
     write_db(data)
+    print("CI test running...")
+
     return {"status": "deleted"}
