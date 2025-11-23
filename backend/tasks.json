@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "title": "Do 3 DSA problems",
+    "id": "dc4ec26e-3258-4fd5-a382-8d061f8054a8",
+    "done": false
+  },
+  {
+    "title": "Make flowchart",
+    "id": "2f1c3ef5-d35d-422b-b5fa-2e5fb2ca8572",
+    "done": false
+  },
+  {
+    "title": "learn python",
+    "id": "e8431be0-d32c-4410-be15-1b555d64f76d",
+    "done": false
+  }
+]
